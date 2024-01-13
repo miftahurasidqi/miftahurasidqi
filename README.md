@@ -7,6 +7,7 @@
 # 🌐 Socials:
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/miftahurrofi_09) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/miftahurasidqi)
+
 [![Web](https://img.shields.io/badge/Personal_Web-gray)](https://miftahurasidqi.netlify.app)
 
 # 💻 Tech Stack:
